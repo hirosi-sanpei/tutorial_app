@@ -37,4 +37,3 @@ end
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Mac環境でしたら、上のgemはコメントアウトします
 # 対象の行にカーソルがある状態で command + 「/」キー が便利です。
-
